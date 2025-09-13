@@ -30,4 +30,7 @@ It fetches data from a remote API, caches it locally with Room, and displays it 
 ---
 
 ## 📸 Screenshots
-![Home Screen](screenshots/screenshot.jpeg) 
+<p align="center">
+  <img src="screenshots/screenshot.jpeg" width="250" />
+</p>
+
